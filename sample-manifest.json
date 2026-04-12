@@ -1,0 +1,12 @@
+{
+  "export_job_id": "e7565d86-b51a-464a-9096-2ba20807a61e",
+  "id_short": 422092,
+  "published_at": "2026-04-12T07:48:41Z",
+  "repo_name": "all-restaurants-in-san-antonio-texas-us-sample-422092",
+  "sample_asset_name": "beamstation_422092_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/422092/beamstation_422092_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "6d496e2b940dbed1ce677b7928ef16e182158597ec2331c013162e2de8e5587e",
+  "sample_size_bytes": 118056,
+  "total_records": 4434
+}
