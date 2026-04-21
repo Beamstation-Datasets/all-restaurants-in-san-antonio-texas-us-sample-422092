@@ -1,6 +1,6 @@
 # All Restaurants in San Antonio, Texas, US
 
-> Free BeamStation sample export with 516 rows and masked direct-contact fields.
+> Free BeamStation sample export with 378 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `422092` |
 | Location | San Antonio |
 | Category | Restaurants |
-| Full dataset size | 5,162 records |
-| Free sample size | 516 records (10.0%) |
-| Last export | 2026-04-14T15:05:34.005912+00:00 |
+| Full dataset size | 3,783 records |
+| Free sample size | 378 records (9.99%) |
+| Last export | 2026-04-21T16:15:52.009167+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-san-antonio-texas-us-sample-422092/releases/download/sample-latest/beamstation_422092_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
