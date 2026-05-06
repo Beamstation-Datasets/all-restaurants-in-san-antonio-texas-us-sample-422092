@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in San Antonio, Texas with a population of over 1,434k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
   "config_name": "All Restaurants in San Antonio, Texas, US",
-  "export_job_id": "0e243626-b987-4550-8c38-2aba242b4ba8",
+  "export_job_id": "cb57b095-ecf4-4161-b538-7437b248a08f",
   "github_org": "Beamstation-Datasets",
   "id_short": 422092,
   "location_name": "San Antonio",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-san-antonio-texas-us-sample-422092",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/422092/beamstation_422092_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 517,
-  "sample_sha256": "93b45abaa9610e86add97b61a73b284657ac1eca25cece1b0c1ac5ceb332d8de",
-  "sample_size_bytes": 1706029,
-  "total_records": 5171,
-  "updated_at": "2026-04-28T17:23:22.376641+00:00"
+  "sample_records": 553,
+  "sample_sha256": "1329a5bc1bfe68e899f3989cfb5ccac72fd8671a94378bb3e078a909ec70d79d",
+  "sample_size_bytes": 1890232,
+  "total_records": 5530,
+  "updated_at": "2026-05-06T19:01:47.169595+00:00"
 }
